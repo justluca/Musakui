@@ -1,4 +1,4 @@
-# Musakui
+# Musakui [![build status][build badge]][build url]
 
 > An easy to use module to fetch random posts from any subreddit
 
@@ -29,3 +29,6 @@ musakui('aww')
 ```
 
 Please note that `media_url` won't be present if the post doesn't contain any kind of media.
+
+[build badge]: https://travis-ci.com/justluca/Musakui.svg?branch=master
+[build url]:   https://travis-ci.com/justluca/Musakui
