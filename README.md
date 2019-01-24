@@ -2,6 +2,12 @@
 
 > An easy to use module to fetch random posts from any subreddit
 
+## Install
+
+```
+$ npm install musakui
+```
+
 ## Usage
 
 ```js
